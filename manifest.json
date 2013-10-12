@@ -9,7 +9,7 @@
     "default_icon": "icon.png"
   },
 
-  "permissions": ["tabs", "clipboardWrite],
+  "permissions": ["tabs", "clipboardWrite", "clipboardRead"],
 
   "background": {
     "scripts": ["bg.js"],
