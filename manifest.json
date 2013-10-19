@@ -3,7 +3,7 @@
 
   "name": "Quick Phrase",
   "description": "Quickly copy frequently used words and phrases to the clipboard.",
-  "version": "0.0.0",
+  "version": "0.1.0",
 
   "browser_action": {
     "default_icon": "icon.png"
@@ -12,7 +12,7 @@
   "permissions": ["tabs", "clipboardWrite", "clipboardRead"],
 
   "background": {
-    "scripts": ["bg.js"],
+    "page": "bg.html",
     "persistent": false
   }
 }

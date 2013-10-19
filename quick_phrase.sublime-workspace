@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"set",
+				"setText"
+			],
+			[
+				"clipboar",
+				"clipboard"
+			],
+			[
+				"s",
+				"Scanner	class"
+			],
+			[
+				"to",
+				"totalTaxMath"
+			],
+			[
+				"intr",
+				"interest"
+			],
+			[
+				"do",
+				"dollaBillzYall"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"bir",
+				"birth_day"
+			],
+			[
+				"bit",
+				"birth_month"
+			],
+			[
+				"birth",
+				"birth_year"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pr",
+				"println(String)	void"
+			],
+			[
+				"println",
+				"println(String)	void"
+			],
+			[
+				"pl",
+				"println()	void"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"b",
+				"bPLong"
+			],
+			[
+				"a",
+				"arcanaNum"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"nameI",
+				"nameIn"
+			],
+			[
+				"n",
+				"nameIn2"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"name",
+				"nameIn"
+			],
+			[
+				"nam",
+				"nameIn"
+			],
+			[
+				"pro",
+				"prompt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "thing.html",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thing.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bg.html",
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bg.js",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntJ",
+				"Set Syntax: Java"
+			],
+			[
+				"setJ",
+				"Set Syntax: Java"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"PaIn",
+				"Package Control: Install Package"
+			],
+			[
+				"clock",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/quick_phrase.sublime-workspace",
+		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/User/StatusBarTime.sublime-settings",
+		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/Status Bar Time/StatusBarTime.sublime-settings",
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/manifest.json",
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/bg.htm",
+		"/C/Users/Bobby/Development/Quick Phrase/Copytest/thing2.html",
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/thing2.html",
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/zeroclipboard-1.1.7/README.md",
+		"/C/Users/Bobby/Development/GitHub/bobbysig.github.io/index.htm",
+		"/C/Users/Bobby/Development/GitHub/cs160/P3/P3.java",
+		"/D/Seagate/Registration/SerialNumber.xml",
+		"/D/FileHistory/Bobby/BOBBY-SIGNOR-PC/Configuration/Config2.xml",
+		"/C/Users/Bobby/Google Drive/Other/LOOK! NUMBERS!!.txt",
+		"/C/Users/Bobby/Development/GitHub/cs160/P2/P2.java",
+		"/C/Users/Bobby/Development/GitHub/bobbysig.github.io/bootstrap.htm",
+		"/C/Users/Bobby/Google Drive/Other/11 10 18 15 11 17.txt",
+		"/C/Users/Bobby/Development/Website/index.html",
+		"/C/Users/Bobby/AppData/Local/Temp/Temp1_erjjones-erjjones.github.com-a83ecc6.zip/erjjones-erjjones.github.com-a83ecc6/README.md",
+		"/C/Users/Bobby/Development/GitHub/bobbysig.github.io/index.html",
+		"/C/Users/Bobby/Development/GitHub/bobbysig.github.io/ckeditor.htm",
+		"/C/ruby_devkit/config.yml",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/CS160/Labs/P1/P1.java",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/ECE102/Notes/Lecture1Notes.txt",
+		"/C/Users/Bobby/Development/JavaScript/piglatintranslator-v1.0.0.htm",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/CS160/Lecture1 Notes.txt",
+		"/C/Users/Bobby/Development/JavaScript/piglatintranslator.htm",
+		"/C/Users/Bobby/Development/JavaScript/arcanameme1.0.0.htm",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/CS160/Labs/P1.java",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/ECE103/Notes/Chapter1Notes.txt",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/ECON202/Notes/Leture1Notes.txt",
+		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bobby/Google Drive/School/College/FA2013/ECE103/Notes/Chapter1Notes.txt",
+		"/C/Users/Bobby/Google Drive/School/College/2013-14/FA2013/ECON202/Notes/Leture1Notes.txtt",
+		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/Status Bar Time/README.md",
+		"/C/Users/Bobby/School/AlcoholEDUNotes.txt",
+		"/C/Users/Bobby/Development/JavaScript/arcanameme.htm",
+		"/C/Users/Public/Documents/SmartTechnology Profiles/Bobby's Profiles/Normal Use.pr0",
+		"/C/Users/Bobby/AppData/Local/Temp/Temp1_actionbar_style_example.zip/res/values/colors_example.xml",
+		"/C/Users/Bobby/AppData/Local/Temp/Temp1_actionbar_style_example.zip/res/values/styles_example.xml",
+		"/C/Users/Bobby/AppData/Local/Temp/Temp1_actionbar_style_example.zip/res/drawable/pressed_background_example.xml",
+		"/C/Users/Bobby/AppData/Local/Temp/Temp1_actionbar_style_example.zip/res/drawable/ab_background_textured_example.xml",
+		"/C/Users/Bobby/AppData/Local/Microsoft/Windows/INetCache/IE/UDWYNCFD/colors_example[1].xml",
+		"/C/Users/Bobby/Development/Arcana Meme Javascript/arcanameme.htm",
+		"/C/Users/Bobby/Development/JavaScript/javascript-test.htm",
+		"/C/Users/Bobby/Development/Arcana Meme Javascript/arcanameme.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n ",
+			"a",
+			"\n		",
+			"{\n",
+			"<!-- Latest compiled and minified CSS -->\n<link rel=\"stylesheet\" href=\"//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css\">",
+			"decisions",
+			"':\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "thing.html",
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "thing.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bg.html",
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bg.js",
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
