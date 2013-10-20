@@ -7,7 +7,8 @@
 	//Executes clipText when message is sent from content scripts.
 	chrome.runtime.onMessage.addListener(
 		function(msg, sender, sendResponse) {
-        	clipText(msg.clip);
+			if (msg.type == "action-copy")
+    	    	clipText(msg.clip);
 	});
 
 	//Copies passed in String to the clipboard.
