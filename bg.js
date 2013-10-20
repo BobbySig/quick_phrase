@@ -1,7 +1,7 @@
 {
 	//Creates the panel when browserAction is clicked.
 	chrome.browserAction.onClicked.addListener(function() {
-        	chrome.windows.create({'url':'thing.html', 'type': 'panel'}, function(window) { });
+        	chrome.windows.create({'url':'panel.html', 'type': 'panel', 'height': 420, 'width': 280}, function(window) { });
     	});
 
 	//Executes clipText when message is sent from content scripts.

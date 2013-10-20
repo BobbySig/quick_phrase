@@ -7,11 +7,11 @@
 
 		//Generates HTML for each phrase.
 		for (i = 0; i < items.length; i++) {
-			htmlString += "<div><a id='phrase' href='#'>" + items[i] + "</a></div><hr>";
+			htmlString += "<a id='phrase' href='#'><div>" + items[i] + "</div></a><hr>";
 		}
 
 		//Generates HTML for "Create New Phrase" button.
-		htmlString += "<form id='create'><input id='new-phrase'><button type='button' id='create-new'>Add Phrase</button></form>";
+		htmlString += "<form id='create'><input id='new-phrase'><button type='button' id='create-new'>Add</button></form>";
 
 		return htmlString;
 	}
@@ -40,7 +40,7 @@
 		//Set action for 'create-new' button.
 		document.forms['create']['create-new'].onclick = function() {
 			var newPhrase = document.forms['create']['new-phrase'].value;
-			if (newPhrase != null) {
+			if (newPhrase != "" && newPhrase != null) {
 				things = addToList(things, newPhrase);
 				document.forms['create']['new-phrase'].value = "";
 				displayPhraseList();
@@ -67,7 +67,7 @@
 		//Set action for 'create-new' button.
 		document.forms['create']['create-new'].onclick = function() {
 			var newPhrase = document.forms['create']['new-phrase'].value;
-			if (newPhrase != null) {
+			if (newPhrase != "" && newPhrase != null) {
 				things = addToList(things, newPhrase);
 				document.forms['create']['new-phrase'].value = "";
 				displayPhraseList();

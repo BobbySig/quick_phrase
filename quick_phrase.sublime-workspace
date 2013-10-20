@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background-color"
+			],
+			[
+				"new",
+				"newPhrase"
+			],
+			[
+				"n",
+				"newPhrase"
+			],
+			[
+				"b",
+				"getElementById"
+			],
+			[
+				"crea",
+				"createForm"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"di",
+				"displayPhraseList"
+			],
+			[
+				"a",
+				"allPhrases"
+			],
+			[
+				"all",
+				"allPhrases"
+			],
+			[
+				"th",
+				"things"
+			],
+			[
 				"block",
 				"inline-block"
 			],
@@ -92,24 +132,12 @@
 				"total"
 			],
 			[
-				"b",
-				"bPLong"
-			],
-			[
-				"a",
-				"arcanaNum"
-			],
-			[
 				"w",
 				"write"
 			],
 			[
 				"nameI",
 				"nameIn"
-			],
-			[
-				"n",
-				"nameIn2"
 			],
 			[
 				"for",
@@ -132,18 +160,34 @@
 	"buffers":
 	[
 		{
-			"file": "thing.html",
+			"file": "panel.js",
 			"settings":
 			{
-				"buffer_size": 299,
+				"buffer_size": 2364,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "thing.js",
+			"file": "panel.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "panel.css",
+			"settings":
+			{
+				"buffer_size": 169,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bg.js",
+			"settings":
+			{
+				"buffer_size": 710,
 				"line_ending": "Windows"
 			}
 		},
@@ -152,14 +196,6 @@
 			"settings":
 			{
 				"buffer_size": 135,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "bg.js",
-			"settings":
-			{
-				"buffer_size": 646,
 				"line_ending": "Windows"
 			}
 		},
@@ -248,6 +284,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/thing.js",
+		"/C/Users/Bobby/Development/GitHub/quick_phrase/thing.html",
 		"/C/Users/Bobby/Development/GitHub/quick_phrase/quick_phrase.sublime-workspace",
 		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/User/StatusBarTime.sublime-settings",
 		"/C/Users/Bobby/AppData/Roaming/Sublime Text 2/Packages/Status Bar Time/StatusBarTime.sublime-settings",
@@ -336,23 +374,50 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "thing.html",
+					"file": "panel.js",
 					"settings":
 					{
-						"buffer_size": 299,
+						"buffer_size": 2364,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								299,
-								299
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "panel.html",
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
 							]
 						],
 						"settings":
@@ -367,50 +432,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "thing.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 2,
-					"file": "bg.html",
+					"file": "panel.css",
 					"settings":
 					{
-						"buffer_size": 135,
+						"buffer_size": 169,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								15
+								169,
+								169
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -423,15 +463,15 @@
 					"file": "bg.js",
 					"settings":
 					{
-						"buffer_size": 646,
+						"buffer_size": 710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								646,
-								646
+								241,
+								241
 							]
 						],
 						"settings":
@@ -447,6 +487,32 @@
 				},
 				{
 					"buffer": 4,
+					"file": "bg.html",
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "manifest.json",
 					"settings":
 					{
@@ -474,7 +540,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "README.md",
 					"settings":
 					{
