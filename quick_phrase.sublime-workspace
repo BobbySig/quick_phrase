@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
 				"back",
 				"background-color"
 			],
@@ -163,7 +179,7 @@
 			"file": "panel.js",
 			"settings":
 			{
-				"buffer_size": 2364,
+				"buffer_size": 2792,
 				"line_ending": "Windows"
 			}
 		},
@@ -179,7 +195,7 @@
 			"file": "panel.css",
 			"settings":
 			{
-				"buffer_size": 169,
+				"buffer_size": 660,
 				"line_ending": "Windows"
 			}
 		},
@@ -374,7 +390,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -382,15 +398,15 @@
 					"file": "panel.js",
 					"settings":
 					{
-						"buffer_size": 2364,
+						"buffer_size": 2792,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2792,
+								2792
 							]
 						],
 						"settings":
@@ -399,7 +415,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 855.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -436,15 +452,15 @@
 					"file": "panel.css",
 					"settings":
 					{
-						"buffer_size": 169,
+						"buffer_size": 660,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								169,
-								169
+								8,
+								8
 							]
 						],
 						"settings":

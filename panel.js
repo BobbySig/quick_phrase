@@ -1,5 +1,5 @@
 {
-	var things = ["Derp", "A thing.", "Nope", "LET ME FINISH."];
+	var things = [];
 
 	//Generates HTML for list of clippable phrases.
 	function listFormatter(items) {
@@ -20,7 +20,7 @@
 		items.push(s);
 		return items;
 	}
-
+	
 	//Displays the list of phrases.
 	function displayPhraseList() {
 		document.getElementById('items').innerHTML = listFormatter(things);
@@ -35,6 +35,11 @@
 					chrome.runtime.sendMessage({type: "action-copy", clip: clipText});
 				}
 			}
+		}
+
+		document.forms['create'].onsubmit = function() {
+			document.forms['create']['create-new'].click();
+			return false;
 		}
 
 		//Set action for 'create-new' button.
@@ -62,6 +67,11 @@
 					chrome.runtime.sendMessage({type: "action-copy", clip: clipText});
 				}
 			}
+		}
+
+		document.forms['create'].onsubmit = function() {
+			document.forms['create']['create-new'].click();
+			return false;
 		}
 
 		//Set action for 'create-new' button.
