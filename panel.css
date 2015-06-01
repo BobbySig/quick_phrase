@@ -21,75 +21,34 @@ a:hover {
 a {
 	display: inline-block;
 	margin:0 0px;
-	padding: 0px;
 	display: -webkit-flex;
 }
 
-div.Contextitem    <!-Context Menu Item Style-->
-{
-	background-color:White;
-	color:Black;
-	font-weight:normal;
-}
-
-div.Contextitem:hover   <!-Context Menu Item Style On Mouse Over-->
-{
-	background-color:#0066FF;
-	color:White;
-	font-weight:bold;
-}
-
-div#items div.header {
+div {
 	padding: 5px 5px;
-	overflow-y: auto;
 }
 
 hr {
-	display: block;
-	height: 1px;
-	border: 0;
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
-	margin: 0;
-	padding: 0;
-	width: 100%;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
 form {
-	width:100%;
-	display: -webkit-flex;
+    width:100%;
+    display: -webkit-flex;
 }
 
 input {
-	-webkit-flex: 1;
-}
-
-/* div.header-fixed {
-	position:fixed;
-	top:0px;
-	margin:auto;
-	z-index:100000;
-	width:100%;
-	background-color: lavender;
-} */
-
-footer {
-	text-align: left;
-	position: fixed;
-	bottom: 0;
-}
-
-* {
-	margin: 0;
-}
-
-html, body {
-	max-height: 100%;
+    -webkit-flex: 1;
 }
 
 body {
 	background-color: lavender;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 11pt;
-	max-height: html.height;
 }

@@ -4,42 +4,6 @@
 		"selected_items":
 		[
 			[
-				"p",
-				"printarray"
-			],
-			[
-				"max",
-				"max-height"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"b",
-				"body"
-			],
-			[
-				"mou",
-				"mouseY"
-			],
-			[
-				"on",
-				"oncontextmenu"
-			],
-			[
-				"f",
-				"function"
-			],
-			[
-				"pa",
-				"pageXOffset"
-			],
-			[
-				"for",
-				"forms"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -66,6 +30,10 @@
 			[
 				"n",
 				"newPhrase"
+			],
+			[
+				"b",
+				"getElementById"
 			],
 			[
 				"crea",
@@ -188,6 +156,10 @@
 				"nameIn"
 			],
 			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
 				"name",
 				"nameIn"
 			],
@@ -207,15 +179,7 @@
 			"file": "panel.js",
 			"settings":
 			{
-				"buffer_size": 2891,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "panel.css",
-			"settings":
-			{
-				"buffer_size": 1229,
+				"buffer_size": 2792,
 				"line_ending": "Windows"
 			}
 		},
@@ -223,7 +187,15 @@
 			"file": "panel.html",
 			"settings":
 			{
-				"buffer_size": 745,
+				"buffer_size": 215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "panel.css",
+			"settings":
+			{
+				"buffer_size": 660,
 				"line_ending": "Windows"
 			}
 		},
@@ -231,7 +203,7 @@
 			"file": "bg.js",
 			"settings":
 			{
-				"buffer_size": 695,
+				"buffer_size": 710,
 				"line_ending": "Windows"
 			}
 		},
@@ -255,7 +227,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 713,
+				"buffer_size": 722,
 				"line_ending": "Windows"
 			}
 		}
@@ -328,8 +300,6 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Bobby/Development/Misc/Select.cpp",
-		"/C/Users/Bobby/Development/Misc/quick_phrase_pre-alpha/manifest.json",
 		"/C/Users/Bobby/Development/GitHub/quick_phrase/thing.js",
 		"/C/Users/Bobby/Development/GitHub/quick_phrase/thing.html",
 		"/C/Users/Bobby/Development/GitHub/quick_phrase/quick_phrase.sublime-workspace",
@@ -428,15 +398,15 @@
 					"file": "panel.js",
 					"settings":
 					{
-						"buffer_size": 2891,
+						"buffer_size": 2792,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								199,
-								199
+								2792,
+								2792
 							]
 						],
 						"settings":
@@ -445,52 +415,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 855.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "panel.css",
-					"settings":
-					{
-						"buffer_size": 1229,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								592,
-								592
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "panel.html",
 					"settings":
 					{
-						"buffer_size": 745,
+						"buffer_size": 215,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								241,
-								241
+								215,
+								215
 							]
 						],
 						"settings":
@@ -505,19 +448,46 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "bg.js",
+					"buffer": 2,
+					"file": "panel.css",
 					"settings":
 					{
-						"buffer_size": 695,
+						"buffer_size": 660,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bg.js",
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
 							]
 						],
 						"settings":
@@ -543,8 +513,8 @@
 						"selection":
 						[
 							[
-								127,
-								127
+								135,
+								135
 							]
 						],
 						"settings":
@@ -590,15 +560,15 @@
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 713,
+						"buffer_size": 722,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								713,
-								713
+								722,
+								722
 							]
 						],
 						"settings":
@@ -647,7 +617,7 @@
 	"menu_visible": false,
 	"output.exec":
 	{
-		"height": 138.0
+		"height": 118.0
 	},
 	"replace":
 	{
